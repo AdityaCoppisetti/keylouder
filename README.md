@@ -1,5 +1,3 @@
-# Project Atlas
-
 A custom 81-key mechanical keyboard designed from the ground up, featuring dual rotary encoders, an integrated status display, and fully custom PCB architecture.
 
 ![Keyboard Render](images/render.png)
