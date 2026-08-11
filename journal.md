@@ -11,4 +11,13 @@ you see something like this when you open the website , you can use whichever we
 <img width="985" height="541" alt="image" src="https://github.com/user-attachments/assets/f0030e5b-1774-4a45-a374-ed45e4d6faea" />
 
 
+there are pre-existing presets , you can even build you custom presets,
+then you can choose whichever keyboard layout you want.
+
+<img width="229" height="461" alt="image" src="https://github.com/user-attachments/assets/f3a36a96-427d-4b93-ab15-55ed7f65f79d" />
+
+
 i decided to make a 60% keyboard since i already have a 60% keyboard and i love its layout
+
+it looks like this- 
+
