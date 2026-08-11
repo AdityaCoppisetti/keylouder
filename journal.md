@@ -151,6 +151,5 @@ here are the footprints ive assigned everything
 
 now lets load everything onto pcb editor and start designing our pcb 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd7d94cc-8df4-4545-8a74-9dd5bccc6e77" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4294e7a-6af3-4675-b461-f38ec734f94a" />
 
