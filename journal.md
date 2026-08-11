@@ -50,4 +50,4 @@ okay so this schematic wiring is a bit wrong, i need to fix it but it explains t
 
 <img width="1064" height="754" alt="image" src="https://github.com/user-attachments/assets/c4787111-9b93-459c-b8eb-5fede3bb2fbe" />
 
-
+see the rows and columns 
