@@ -173,3 +173,8 @@ oh and btw the entire last colum has different sized switches
 <img width="831" height="82" alt="image" src="https://github.com/user-attachments/assets/a8fc8197-1c25-401b-9c2a-48aedb44cbca" />
 
 
+oh and apparently it took me this long to realise i didnt put the size for the space bar and didnt mention it in the schematic 
+
+<img width="1135" height="606" alt="image" src="https://github.com/user-attachments/assets/22eece76-bd65-4906-9beb-3a6ca090377a" />
+
+here it is now 
