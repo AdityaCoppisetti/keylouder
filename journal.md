@@ -122,3 +122,10 @@ in our 5th and last row we have only 8 switches so here is how the schematic loo
 
 
 <img width="914" height="474" alt="image" src="https://github.com/user-attachments/assets/4e735ccb-20ab-46b2-a314-e79510e86ffc" />
+
+
+
+here is the proper schematic with the rows and columns respectively 
+
+<img width="914" height="474" alt="image" src="https://github.com/user-attachments/assets/83e035ab-615a-4454-b76a-01442e3abd7d" />
+
