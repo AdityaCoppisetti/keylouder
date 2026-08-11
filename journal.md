@@ -101,3 +101,5 @@ in the second column we again have 14 keys but this time the switch sizes are di
 
 
 and for our 3rd row we have 13 switches with the tab and enter key differenly sized
+
+<img width="827" height="62" alt="image" src="https://github.com/user-attachments/assets/a37f81c2-b483-4c3d-b257-c6f6ccf3290c" />
