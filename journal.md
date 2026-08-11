@@ -77,3 +77,8 @@ in this way
 
 <img width="956" height="132" alt="image" src="https://github.com/user-attachments/assets/8cd12f83-b42d-46ef-bf2c-eaea9c9466c4" />
 
+now see not each switchis of the same size , so how would we know what size of swtich we would need to use? 
+well in the keyboard layout editor you click the switch and down below it shows the width , which is the size of the switch you need to use
+
+
+
