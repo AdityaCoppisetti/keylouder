@@ -107,3 +107,12 @@ and for our 3rd row we have 13 switches with the tab and enter key differenly si
 and in our 4th row we only have 12 keys 
 
 <img width="827" height="62" alt="image" src="https://github.com/user-attachments/assets/de026434-bda4-4292-a294-ace5c8d24277" />
+
+
+my bad it turns out i miscounted the switches in my schematic in the top layer , it is indeed 14 but i put only 13 switches 
+
+here is how it should look like 
+
+
+<img width="1281" height="227" alt="image" src="https://github.com/user-attachments/assets/02cb6404-0109-46f6-9819-5a1ecb9e05a1" />
+
