@@ -85,4 +85,4 @@ this is for the backspace key
 <img width="518" height="473" alt="image" src="https://github.com/user-attachments/assets/1af22aab-e462-47d9-8c4a-5761d64e6beb" />
 
 
-
+and then you go into your footprint library and pick the correct size . im using cherry mx switches so my footprints may vary 
