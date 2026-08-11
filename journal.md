@@ -31,4 +31,4 @@ so here is what we are going to do , we are going to make a matrix of switches i
 
 <img width="544" height="570" alt="image" src="https://github.com/user-attachments/assets/374533a0-93b1-4c07-90c9-d5f161ac981f" />
 
-and then we will wire them up like this - 
+and then we will wire them up in rows and columns like this- 
