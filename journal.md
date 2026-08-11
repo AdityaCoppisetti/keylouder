@@ -53,6 +53,9 @@ okay so this schematic wiring is a bit wrong, i need to fix it but it explains t
 see the rows and columns 
 
 we will call this schematic version 1 
+
+
 <img width="458" height="214" alt="image" src="https://github.com/user-attachments/assets/86442e19-e2d9-4920-8d1b-a7a5a5fa50ca" />
+
 
 just for understanding the logic 
