@@ -22,3 +22,9 @@ i decided to make a 60% keyboard since i already have a 60% keyboard and i love 
 it looks like this- 
 
 <img width="922" height="354" alt="image" src="https://github.com/user-attachments/assets/9be80bff-60c3-4cc5-8ce1-9b6fc5800d17" />
+
+and then you open kicad and then open schematic editor and take a switch and diode. 
+why? 
+because there are 61 switches and we are using the raspberry pico which clearly doesnt have the pins required to wire each switch seperately. 
+
+so here is what we are going to do , we are going to make a matrix of switches in this manner- 
