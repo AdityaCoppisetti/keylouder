@@ -80,5 +80,9 @@ in this way
 now see not each switchis of the same size , so how would we know what size of swtich we would need to use? 
 well in the keyboard layout editor you click the switch and down below it shows the width , which is the size of the switch you need to use
 
+this is for the backspace key 
+
+<img width="518" height="473" alt="image" src="https://github.com/user-attachments/assets/1af22aab-e462-47d9-8c4a-5761d64e6beb" />
+
 
 
