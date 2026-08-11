@@ -168,3 +168,8 @@ im taking each diode and putting it on the other side of the pcb
 and then im removing the refrences and values because all diodes are the same in my pcb
 
 
+oh and btw the entire last colum has different sized switches
+
+<img width="831" height="82" alt="image" src="https://github.com/user-attachments/assets/a8fc8197-1c25-401b-9c2a-48aedb44cbca" />
+
+
