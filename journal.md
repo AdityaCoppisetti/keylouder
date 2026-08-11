@@ -93,3 +93,9 @@ which we would need for the space bar and other big keys
 <img width="763" height="334" alt="image" src="https://github.com/user-attachments/assets/829d3572-aa05-45b6-b9af-ee99356e871f" />
 
 and we will repeat this method for each key 
+
+
+in the second column we again have 14 keys but this time the switch sizes are different, 2 keys exactly 
+
+<img width="827" height="62" alt="image" src="https://github.com/user-attachments/assets/6cfeab84-eefc-423c-9dca-2f95659712d9" />
+
