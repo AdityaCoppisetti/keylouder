@@ -61,6 +61,13 @@ we will call this schematic version 1
 
 just for understanding the logic 
 
+
+i even made the entire pcb but then i realised i wired everything wrong , here is that pcb i designed- 
+
+
+<img width="1201" height="484" alt="Screenshot From 2026-08-11 15-16-31" src="https://github.com/user-attachments/assets/22fe2f1f-d38f-440b-9a8e-9264d3fd5c0e" />
+
+
 okay i copied over the components and lets redesign the schematic . 
 
 
