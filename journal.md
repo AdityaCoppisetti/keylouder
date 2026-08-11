@@ -47,3 +47,4 @@ for example switch one is wired so that when pressed it'll be - row1 and column 
 okay so using this idea we make the full schematic for the needed 61 keys ( because its 60%) 
 
 
+
