@@ -72,3 +72,8 @@ because at first when i saw 61 keys i thought i could wire them in a 5x12 manner
 
 
 in the top most layer there are 14 switches so we will wire 14 switches in the first column
+
+in this way 
+
+<img width="956" height="132" alt="image" src="https://github.com/user-attachments/assets/8cd12f83-b42d-46ef-bf2c-eaea9c9466c4" />
+
