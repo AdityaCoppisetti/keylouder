@@ -8,6 +8,7 @@ https://editor.keyboard-tools.xyz/
 
 you see something like this when you open the website , you can use whichever website you find comfortable, for me its this website. 
 
+<img width="985" height="541" alt="image" src="https://github.com/user-attachments/assets/f0030e5b-1774-4a45-a374-ed45e4d6faea" />
 
 
 i decided to make a 60% keyboard since i already have a 60% keyboard and i love its layout
