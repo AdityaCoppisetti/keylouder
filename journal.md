@@ -69,3 +69,6 @@ okay i copied over the components and lets redesign the schematic .
 
 my goal is to make it the same as the layout 
 because at first when i saw 61 keys i thought i could wire them in a 5x12 manner but turns out i need to do it how the layout is
+
+
+in the top most layer there are 14 switches so we will wire 14 switches in the first column
