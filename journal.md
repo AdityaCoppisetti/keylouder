@@ -116,3 +116,9 @@ here is how it should look like
 
 <img width="1281" height="227" alt="image" src="https://github.com/user-attachments/assets/02cb6404-0109-46f6-9819-5a1ecb9e05a1" />
 
+
+in our 5th and last row we have only 8 switches so here is how the schematic looks like- 
+
+
+
+<img width="914" height="474" alt="image" src="https://github.com/user-attachments/assets/4e735ccb-20ab-46b2-a314-e79510e86ffc" />
