@@ -136,3 +136,6 @@ here is the proper schematic with the rows and columns respectively
 
 <img width="914" height="474" alt="image" src="https://github.com/user-attachments/assets/83e035ab-615a-4454-b76a-01442e3abd7d" />
 
+okay so because you copy the rows and paste them to save time , you would have to annotate which renames the switches so dont freak out like me 
+
+<img width="1047" height="558" alt="image" src="https://github.com/user-attachments/assets/504fed3d-cfef-433f-a679-cc8f17b6051f" />
