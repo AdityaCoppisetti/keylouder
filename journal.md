@@ -139,3 +139,14 @@ here is the proper schematic with the rows and columns respectively
 okay so because you copy the rows and paste them to save time , you would have to annotate which renames the switches so dont freak out like me 
 
 <img width="1047" height="558" alt="image" src="https://github.com/user-attachments/assets/504fed3d-cfef-433f-a679-cc8f17b6051f" />
+
+here are the footprints ive assigned everything
+
+<img width="601" height="838" alt="image" src="https://github.com/user-attachments/assets/2d3a3e1f-2d1c-493f-b8dc-3b338253f178" />
+
+
+<img width="601" height="838" alt="image" src="https://github.com/user-attachments/assets/fefb5129-6530-472c-b071-690e7e15ea12" />
+
+
+
+
