@@ -153,3 +153,9 @@ now lets load everything onto pcb editor and start designing our pcb
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4294e7a-6af3-4675-b461-f38ec734f94a" />
 
+oh and i decided to not use the rotary encoder , ill use it for a different project
+
+and here is how i wired the pi pico 
+
+<img width="354" height="437" alt="image" src="https://github.com/user-attachments/assets/6ed40036-c423-45cd-acac-9df696772237" />
+
