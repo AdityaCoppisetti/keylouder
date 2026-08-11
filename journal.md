@@ -62,5 +62,10 @@ we will call this schematic version 1
 just for understanding the logic 
 
 okay i copied over the components and lets redesign the schematic . 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65f0f0a9-f38f-4756-8b45-430fd11c0a87" />
+
+
 my goal is to make it the same as the layout 
 because at first when i saw 61 keys i thought i could wire them in a 5x12 manner but turns out i need to do it how the layout is
