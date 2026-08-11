@@ -86,3 +86,9 @@ this is for the backspace key
 
 
 and then you go into your footprint library and pick the correct size . im using cherry mx switches so my footprints may vary 
+
+we want to pick the pcb one footprint as it has space for supports 
+which we would need for the space bar and other big keys 
+
+<img width="763" height="334" alt="image" src="https://github.com/user-attachments/assets/829d3572-aa05-45b6-b9af-ee99356e871f" />
+
