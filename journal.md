@@ -44,4 +44,6 @@ and the diodes are there so no swtiches falsly seem to be pressed , i.e ghost cl
 so basically each switch is now unique since it has a unique value . 
 for example switch one is wired so that when pressed it'll be - row1 and column 1. and for switch 2 it'll be row2 and column1 
 
+okay so using this idea we make the full schematic for the needed 61 keys ( because its 60%) 
+
 
