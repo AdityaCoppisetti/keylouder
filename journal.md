@@ -92,3 +92,4 @@ which we would need for the space bar and other big keys
 
 <img width="763" height="334" alt="image" src="https://github.com/user-attachments/assets/829d3572-aa05-45b6-b9af-ee99356e871f" />
 
+
