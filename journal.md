@@ -32,3 +32,9 @@ so here is what we are going to do , we are going to make a matrix of switches i
 <img width="544" height="570" alt="image" src="https://github.com/user-attachments/assets/374533a0-93b1-4c07-90c9-d5f161ac981f" />
 
 and then we will wire them up in rows and columns like this- 
+
+<img width="732" height="647" alt="image" src="https://github.com/user-attachments/assets/c223e3b9-763e-4174-a840-e76f57095981" />
+
+3 rows and 3 columns, this is basic maths combination. 
+
+
