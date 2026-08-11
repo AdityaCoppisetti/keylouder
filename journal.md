@@ -21,3 +21,4 @@ i decided to make a 60% keyboard since i already have a 60% keyboard and i love 
 
 it looks like this- 
 
+<img width="922" height="354" alt="image" src="https://github.com/user-attachments/assets/9be80bff-60c3-4cc5-8ce1-9b6fc5800d17" />
