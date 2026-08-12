@@ -462,3 +462,8 @@ now lets make the rotary encode module!
 
 
 # ROTARY ENCODER MODULE!!!!!!!!!!!!!!!!
+
+
+okay so ill be using this rotary encoder
+
+<img width="1265" height="596" alt="image" src="https://github.com/user-attachments/assets/9cb6baa2-1af0-44fa-9d2b-0c8e65be3bc4" />
