@@ -339,3 +339,8 @@ combine it into the same part studio.
 
 i do this because its so much easier to make the case then and then i make sure that nothing is mapped out wrong plus at the same time i create project mockups to use as the preview picture 
 
+the pcb looks so amazing in onshape 
+
+<img width="1267" height="516" alt="image" src="https://github.com/user-attachments/assets/c998e491-4186-418f-8ba9-121ed6a506cf" />
+
+
