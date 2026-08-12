@@ -178,3 +178,18 @@ oh and apparently it took me this long to realise i didnt put the size for the s
 <img width="1135" height="606" alt="image" src="https://github.com/user-attachments/assets/22eece76-bd65-4906-9beb-3a6ca090377a" />
 
 here it is now 
+
+<img width="599" height="245" alt="image" src="https://github.com/user-attachments/assets/3b943cdd-dc56-45f5-b03d-a29e81d95d82" />
+
+okay so at first i didnt account for stabilizers which you would need so that the keycaps stay flat on the keyboard. 
+so i went to add stabilizers in my schematic but i couldnt find the symbol so i just took a capacitor and gave it that footprint. 
+also the footprint for that i got from a different package which apparently has 3d models of everything so im going to switch the footprint of each key to one from that library. 
+
+the reason i used capacitors is because i already mapped out the keys in the pcb and if i would have used switches instead of capacitors it wouldve had me annotate the pcb again which would mess everything up and i would have to start all over. 
+
+secondly when choosing stabilizers you ignore whats after the decimal point in the size 
+
+<img width="232" height="529" alt="image" src="https://github.com/user-attachments/assets/c9eee3c8-83dd-429f-b216-581e6bcfb9c5" />
+
+if the size is 2.25 , you pick 2, etc. 
+
