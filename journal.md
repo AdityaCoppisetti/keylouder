@@ -292,3 +292,8 @@ for the ic im using this
 
 <img width="1152" height="618" alt="image" src="https://github.com/user-attachments/assets/c005750d-1d3e-4dde-9059-4490f01a1eb7" />
 
+
+for the resistor 
+
+<img width="1152" height="618" alt="image" src="https://github.com/user-attachments/assets/6666e625-6409-4be0-aba5-7d0c4a1e9ccc" />
+
