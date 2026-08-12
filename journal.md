@@ -362,5 +362,9 @@ okay so i updated the main pcb here is how it looks like now
 
 <img width="1225" height="485" alt="image" src="https://github.com/user-attachments/assets/94860a12-1071-495b-85f9-1af96a534854" />
 
+oh and i totally forgot i need to add holes to put screw thru so that i can mount it onto the case 
+
+
+
 
 
