@@ -241,6 +241,8 @@ https://github.com/user-attachments/assets/9dbf6d89-2aa4-4465-9659-0ed4b1decdad
 
 before we get started on the case i dont like the empty space below the pi pico so im thinking of adding a led matrix to it and have fun animations on it 
 
+
+
 okay so i was reading this tutorial https://www.hackster.io/diyguyChris/diy-customized-8x8-led-matrix-tutorial-max7219-meets-arduin-06a3a7
 
 <img width="632" height="475" alt="image" src="https://github.com/user-attachments/assets/ae3703c9-bb37-41a0-afa3-929e9134d7ed" />
@@ -252,4 +254,5 @@ now that open alot of doors because then i would be able to hotswappable modules
 this is exciting!!
 
 
+# THE LED MATRIX MODULE 
 
