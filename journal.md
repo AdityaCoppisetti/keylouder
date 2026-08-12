@@ -329,3 +329,9 @@ ookay so i opened kicad pcb editor and exported my file in . step
 
 
 <img width="371" height="195" alt="image" src="https://github.com/user-attachments/assets/14336fed-b38e-4c66-8f2f-7bad73718ad5" />
+
+
+now lets open onshape and import our pcb boards. 
+
+<img width="253" height="324" alt="image" src="https://github.com/user-attachments/assets/704d1ce6-c3ee-4b45-886b-2fdc10d23bd9" />
+
