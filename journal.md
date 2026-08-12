@@ -280,6 +280,9 @@ we now need to make the pinout
 
 <img width="531" height="301" alt="image" src="https://github.com/user-attachments/assets/94126aef-caa8-4542-8d5b-17c938a3c623" />
 
+okay i made a mistake the net labels werent the same because in the matrix the r is lowercase and in the ic wiring the net label was upercase 
+
+
 
 # THE FOOTPRINTS 
 For the leds this is the footprint im using- 
