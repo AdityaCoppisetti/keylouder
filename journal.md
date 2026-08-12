@@ -226,6 +226,14 @@ end result-
 <img width="1206" height="477" alt="image" src="https://github.com/user-attachments/assets/8eb34d15-d2d2-446a-bb2c-a86d767e4fb0" />
 
 
+look how much better the pcb looks 
+
+<img width="1258" height="447" alt="image" src="https://github.com/user-attachments/assets/faf12b91-1ca4-4259-a345-d74f51bc6f0b" />
+
+and here is a lil 360 as always 
+
+
+
 
 
 
