@@ -443,3 +443,15 @@ i fear my laptop may fucking blast
 
 <img width="1447" height="655" alt="image" src="https://github.com/user-attachments/assets/0b222438-ae3d-45f2-bd65-e60352f79e4a" />
 
+okay so i genuinly think something will blow up because of how laggy and hot my laptop is getting 
+
+<img width="1447" height="655" alt="image" src="https://github.com/user-attachments/assets/3492018e-18de-44a3-abb4-5e786d28569d" />
+
+i want to make more modules , simple ones now , like a oled display module and then a rotary encoder module and 
+ i want to add this sliding module aswell
+
+ 
+ <img width="1447" height="655" alt="image" src="https://github.com/user-attachments/assets/a41d99cf-8326-4688-a18e-6c7d0ffcd62e" />
+
+ but i might make it for a different keyboard or project 
+
