@@ -480,3 +480,9 @@ okay so what its basically doing is that it takes the pin on the main keyboard p
 
 <img width="411" height="707" alt="image" src="https://github.com/user-attachments/assets/27c77088-ded6-4f59-9b4d-b71fe7f541c4" />
 
+
+
+and then these are the footprints 
+
+<img width="688" height="109" alt="image" src="https://github.com/user-attachments/assets/d9191a5b-39a4-416a-a527-56badbc4cc71" />
+
