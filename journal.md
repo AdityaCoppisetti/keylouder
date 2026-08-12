@@ -472,3 +472,8 @@ okay so you can do this with a perfboard aswell.
 
 ill be desoldering the pins on the rotary encoder and then soldering the rotary encoder onto my module pcb because the pins we have set for gnd and vcc is different that the ones needed for the rotary encoder
 
+OKAY SO BAHAHAHAHAHHAH THIS IS HOW BIG THE SCHEMATIC IS , ITS THE BIGGEST SCHEMATIC IVE EVER MADE
+
+<img width="696" height="393" alt="image" src="https://github.com/user-attachments/assets/92b5b4e0-7d4c-4faf-9cec-d78439461a2e" />
+
+
