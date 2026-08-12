@@ -486,3 +486,9 @@ and then these are the footprints
 
 <img width="688" height="109" alt="image" src="https://github.com/user-attachments/assets/d9191a5b-39a4-416a-a527-56badbc4cc71" />
 
+
+this is how simple the module really is 
+
+<img width="782" height="552" alt="image" src="https://github.com/user-attachments/assets/f46cc12c-81a9-4d30-abb2-41b000280cb0" />
+
+
