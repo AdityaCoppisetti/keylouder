@@ -503,4 +503,7 @@ there is literally no point in making fill zones but i think it gives the board 
 <img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/ae518b9c-2f19-464a-bea8-820e6d64e266" />
 
 
+<img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/52e91e3e-bbb2-471b-bc1b-71bf8f5e5bde" />
+
+
 
