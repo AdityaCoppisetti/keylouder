@@ -297,3 +297,8 @@ for the resistor
 
 <img width="1152" height="618" alt="image" src="https://github.com/user-attachments/assets/6666e625-6409-4be0-aba5-7d0c4a1e9ccc" />
 
+
+and then the resisitor
+
+<img width="1152" height="618" alt="image" src="https://github.com/user-attachments/assets/742dab01-8518-4686-8465-41ade46bb6ea" />
+
