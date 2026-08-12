@@ -383,4 +383,4 @@ okay so im making this structure in the case which is totally optional but im ma
 
 <img width="1031" height="461" alt="image" src="https://github.com/user-attachments/assets/fa62bb02-9d0f-477a-9d5e-12785db4d2af" />
 
-
+oh and the holes in the corner are so i can put heat inserts and then screw down the keyboard 
