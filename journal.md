@@ -203,6 +203,10 @@ okay so i completed the pcb routing completely
 now lets make the case 
 
 here is how the pcb looks like in 3d view
+and before we do that we have to define the pcb parameters using the edgecuts layer and drawing a rectangle. 
+
+<img width="1267" height="506" alt="image" src="https://github.com/user-attachments/assets/2937f420-e144-47aa-a4d2-18e2ec70da5f" />
+
 
 # THE CASE 
 
