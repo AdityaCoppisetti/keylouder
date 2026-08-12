@@ -277,3 +277,9 @@ Okay i did it and here is how it looks like-
 <img width="867" height="588" alt="image" src="https://github.com/user-attachments/assets/8754f17f-284f-45cc-a35d-7db0bf5e86f4" />
 
 we now need to make the pinout 
+
+<img width="531" height="301" alt="image" src="https://github.com/user-attachments/assets/94126aef-caa8-4542-8d5b-17c938a3c623" />
+
+
+# THE FOOTPRINTS 
+
