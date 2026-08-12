@@ -507,6 +507,8 @@ there is literally no point in making fill zones but i think it gives the board 
 
 and obviously ill import it into onshape and make a mockup 
 
+apparently i cant do that because as soon as i open the asembly now it just freezes my laptop and im worried that my hackatime lapse footage will corrupt :(
+
 
 
 
