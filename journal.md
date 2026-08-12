@@ -505,5 +505,8 @@ there is literally no point in making fill zones but i think it gives the board 
 
 <img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/52e91e3e-bbb2-471b-bc1b-71bf8f5e5bde" />
 
+and obviously ill import it into onshape and make a mockup 
+
+
 
 
