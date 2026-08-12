@@ -351,3 +351,6 @@ okay so i added connection in the main keyboard schematic and let now also put i
 
 <img width="924" height="591" alt="image" src="https://github.com/user-attachments/assets/3b5eb31e-fdde-4d84-8708-649820e55f88" />
 
+before we do that lets clean up our schematic 
+
+
