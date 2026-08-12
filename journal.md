@@ -205,3 +205,6 @@ now lets make the case
 # THE CASE 
 
 for the case ill be going to pcb editor on kicad and exporting my pcb in .step file 
+
+<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/c9a27641-0c83-4d3e-a81a-ae99ac795690" />
+
