@@ -438,3 +438,8 @@ my laptop is getting so hot bahahahha
 
 <img width="1214" height="507" alt="image" src="https://github.com/user-attachments/assets/9a70a866-c4c8-4873-ba35-b59cbe8acbc7" />
 
+
+i fear my laptop may fucking blast 
+
+<img width="1447" height="655" alt="image" src="https://github.com/user-attachments/assets/0b222438-ae3d-45f2-bd65-e60352f79e4a" />
+
