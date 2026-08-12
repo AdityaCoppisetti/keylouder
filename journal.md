@@ -368,6 +368,12 @@ now our pcb has holes so i can put screws thru them and we will be using 4mm hea
 
 <img width="1060" height="397" alt="image" src="https://github.com/user-attachments/assets/d35263cb-b2e3-4613-b1c2-ac1caed7a3db" />
 
+here is a lil 360 
+
+
+
+https://github.com/user-attachments/assets/b619c04f-7e00-4aa9-93fa-9f7086f12ad5
+
 
 
 now lets import this again into onshape and lets stard designing the case 
