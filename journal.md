@@ -453,9 +453,12 @@ i want to make more modules , simple ones now , like a oled display module and t
 
 now lets make the rotary encode module! 
 
-# ROTARY ENCODER MODULE!!!!!!!!!!!!!!!!
+
  
  <img width="1447" height="655" alt="image" src="https://github.com/user-attachments/assets/a41d99cf-8326-4688-a18e-6c7d0ffcd62e" />
 
  but i might make it for a different keyboard or project 
 
+
+
+# ROTARY ENCODER MODULE!!!!!!!!!!!!!!!!
