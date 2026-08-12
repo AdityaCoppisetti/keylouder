@@ -319,3 +319,6 @@ i finally got done routing everything oh my god its so time taking
 <img width="360" height="504" alt="image" src="https://github.com/user-attachments/assets/9705d652-390f-4cbe-bdea-ed0d01ea9fe0" />
 
 
+okay now lets design the case. 
+
+## THE CASE
