@@ -239,6 +239,7 @@ and here is a lil 360 as always
 https://github.com/user-attachments/assets/9dbf6d89-2aa4-4465-9659-0ed4b1decdad
 
 
+before we get started on the case i dont like the empty space below the pi pico so im thinking of adding a led matrix to it and have fun animations on it 
 
 
 
