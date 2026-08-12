@@ -364,6 +364,10 @@ okay so i updated the main pcb here is how it looks like now
 
 oh and i totally forgot i need to add holes to put screw thru so that i can mount it onto the case 
 
+now our pcb has holes so i can put screws thru them and we will be using 4mm heat inserts in the case keep in mind. you can choose any heat inserts you want 
+
+<img width="1060" height="397" alt="image" src="https://github.com/user-attachments/assets/d35263cb-b2e3-4613-b1c2-ac1caed7a3db" />
+
 
 
 
