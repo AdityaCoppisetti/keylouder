@@ -251,9 +251,5 @@ and the person had built a tiny module for their arduino and it got me thinking 
 now that open alot of doors because then i would be able to hotswappable modules like one with a led matrix and then one with a tiny oled display and one with a rotary encoder.
 this is exciting!!
 
-# THE CASE 
 
-for the case ill be going to pcb editor on kicad and exporting my pcb in .step file 
-
-<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/c9a27641-0c83-4d3e-a81a-ae99ac795690" />
 
