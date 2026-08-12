@@ -147,7 +147,7 @@ here are the footprints ive assigned everything
 
 <img width="601" height="838" alt="image" src="https://github.com/user-attachments/assets/fefb5129-6530-472c-b071-690e7e15ea12" />
 
-
+# THE PCB 
 
 now lets load everything onto pcb editor and start designing our pcb 
 
@@ -193,3 +193,11 @@ secondly when choosing stabilizers you ignore whats after the decimal point in t
 
 if the size is 2.25 , you pick 2, etc. 
 
+
+okay so i completed the pcb routing completely 
+
+<img width="996" height="417" alt="image" src="https://github.com/user-attachments/assets/8a44b723-245b-49ee-9e96-ba2e7171a625" />
+
+now lets make the case 
+
+# THE CASE 
