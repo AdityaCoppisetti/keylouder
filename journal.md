@@ -399,3 +399,12 @@ here is how the pcb looks like inside the case
 <img width="1233" height="491" alt="image" src="https://github.com/user-attachments/assets/df646430-4e4a-48fe-85d8-d036310de067" />
 
 
+the little led matrix sits so flush and perfectly on the board its crazy 
+
+
+
+https://github.com/user-attachments/assets/e525fbdb-a991-4f65-9065-cdec64515798
+
+
+
+
