@@ -417,3 +417,6 @@ okay so i found this key and keycap cad file and im downloading it to use for my
 now im going to add everything together in assembly and design mockups 
 
 
+<img width="555" height="582" alt="image" src="https://github.com/user-attachments/assets/7a7dac03-cfc3-42c1-9b36-ed579e2eca91" />
+
+
