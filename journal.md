@@ -427,3 +427,9 @@ my laptop is struggling really hard to load all of this bahahahha
 
 <img width="1351" height="523" alt="image" src="https://github.com/user-attachments/assets/951fb9ba-0d07-4488-976f-6e0e918eeac3" />
 
+
+my laptop is getting so hot bahahahha 
+
+<img width="1001" height="727" alt="image" src="https://github.com/user-attachments/assets/c8beeaaa-5e35-4907-b91d-3eee8dc08e6d" />
+
+
