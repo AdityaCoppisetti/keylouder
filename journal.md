@@ -378,3 +378,9 @@ https://github.com/user-attachments/assets/b619c04f-7e00-4aa9-93fa-9f7086f12ad5
 
 now lets import this again into onshape and lets stard designing the case 
 
+
+okay so im making this structure in the case which is totally optional but im making this so that the pcb is sturdy and doesnt bend from the weight of my hand 
+
+<img width="1031" height="461" alt="image" src="https://github.com/user-attachments/assets/fa62bb02-9d0f-477a-9d5e-12785db4d2af" />
+
+
