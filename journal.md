@@ -282,4 +282,10 @@ we now need to make the pinout
 
 
 # THE FOOTPRINTS 
+For the leds this is the footprint im using- 
+
+<img width="1152" height="618" alt="image" src="https://github.com/user-attachments/assets/377a8d6d-5193-4567-ae31-c71cb76e677a" />
+
+LED_SMD:LED_0201_0603Metric
+
 
