@@ -258,3 +258,5 @@ this is exciting!!
 
 Using the schematic provided in the tutorial ill reacreate that schematic in kicad , lets make a new project file within our project and start building the schematic 
 
+<img width="1010" height="733" alt="Screenshot From 2026-08-12 16-22-33" src="https://github.com/user-attachments/assets/29d182f7-8e8a-4a1f-8cda-5a3db70055b9" />
+
