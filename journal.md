@@ -467,3 +467,8 @@ now lets make the rotary encode module!
 okay so ill be using this rotary encoder
 
 <img width="1265" height="596" alt="image" src="https://github.com/user-attachments/assets/9cb6baa2-1af0-44fa-9d2b-0c8e65be3bc4" />
+
+okay so you can do this with a perfboard aswell. 
+
+ill be desoldering the pins on the rotary encoder and then soldering the rotary encoder onto my module pcb because the pins we have set for gnd and vcc is different that the ones needed for the rotary encoder
+
