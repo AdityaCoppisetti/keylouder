@@ -207,6 +207,8 @@ and before we do that we have to define the pcb parameters using the edgecuts la
 
 <img width="1267" height="506" alt="image" src="https://github.com/user-attachments/assets/2937f420-e144-47aa-a4d2-18e2ec70da5f" />
 
+also then we are going to define a positive and ground plane 
+
 
 # THE CASE 
 
