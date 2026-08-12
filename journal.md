@@ -420,3 +420,10 @@ now im going to add everything together in assembly and design mockups
 <img width="555" height="582" alt="image" src="https://github.com/user-attachments/assets/7a7dac03-cfc3-42c1-9b36-ed579e2eca91" />
 
 
+my laptop is struggling really hard to load all of this bahahahha
+
+
+
+
+<img width="1351" height="523" alt="image" src="https://github.com/user-attachments/assets/951fb9ba-0d07-4488-976f-6e0e918eeac3" />
+
