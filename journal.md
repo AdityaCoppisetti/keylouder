@@ -498,3 +498,9 @@ the most difficult pcb today oh my my
 <img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/da94f669-59cc-4546-be0b-d7c5f761bc03" />
 
 
+there is literally no point in making fill zones but i think it gives the board a nice look 
+
+<img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/ae518b9c-2f19-464a-bea8-820e6d64e266" />
+
+
+
