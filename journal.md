@@ -433,3 +433,6 @@ my laptop is getting so hot bahahahha
 <img width="1001" height="727" alt="image" src="https://github.com/user-attachments/assets/c8beeaaa-5e35-4907-b91d-3eee8dc08e6d" />
 
 
+<img width="1001" height="727" alt="image" src="https://github.com/user-attachments/assets/d7b523ac-6c87-4714-90ae-7c61231e4d37" />
+
+
