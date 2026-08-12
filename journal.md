@@ -268,3 +268,8 @@ okay i wired the ic ,
 
 now we need to make the led matrix and wire that to it 
 
+<img width="684" height="802" alt="image" src="https://github.com/user-attachments/assets/44d651bf-b875-435d-8884-b0118cbd7a45" />
+
+made it now we need to wire it to the ic 
+
+
