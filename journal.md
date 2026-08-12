@@ -450,6 +450,10 @@ okay so i genuinly think something will blow up because of how laggy and hot my 
 i want to make more modules , simple ones now , like a oled display module and then a rotary encoder module and 
  i want to add this sliding module aswell
 
+
+now lets make the rotary encode module! 
+
+# ROTARY ENCODER MODULE!!!!!!!!!!!!!!!!
  
  <img width="1447" height="655" alt="image" src="https://github.com/user-attachments/assets/a41d99cf-8326-4688-a18e-6c7d0ffcd62e" />
 
