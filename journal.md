@@ -256,3 +256,5 @@ this is exciting!!
 
 # THE LED MATRIX MODULE 
 
+Using the schematic provided in the tutorial ill reacreate that schematic in kicad , lets make a new project file within our project and start building the schematic 
+
