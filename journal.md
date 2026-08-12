@@ -344,3 +344,5 @@ the pcb looks so amazing in onshape
 <img width="1267" height="516" alt="image" src="https://github.com/user-attachments/assets/c998e491-4186-418f-8ba9-121ed6a506cf" />
 
 
+oh my god i totally forgot to add connecting pins for the led matrix bahahahah
+
