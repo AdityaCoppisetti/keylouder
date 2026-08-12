@@ -221,6 +221,11 @@ and then then GND one
 
 <img width="1206" height="477" alt="image" src="https://github.com/user-attachments/assets/39ac85d1-0d0e-4d4f-8335-7b4f7cc05606" />
 
+end result- 
+
+<img width="1206" height="477" alt="image" src="https://github.com/user-attachments/assets/8eb34d15-d2d2-446a-bb2c-a86d767e4fb0" />
+
+
 
 
 
