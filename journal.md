@@ -370,5 +370,5 @@ now our pcb has holes so i can put screws thru them and we will be using 4mm hea
 
 
 
-
+now lets import this again into onshape and lets stard designing the case 
 
