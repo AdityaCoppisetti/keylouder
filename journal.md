@@ -202,6 +202,8 @@ okay so i completed the pcb routing completely
 
 now lets make the case 
 
+here is how the pcb looks like in 3d view
+
 # THE CASE 
 
 for the case ill be going to pcb editor on kicad and exporting my pcb in .step file 
