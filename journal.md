@@ -217,6 +217,11 @@ after adding the VBUS fill zone here is how it looks like
 
 <img width="1206" height="477" alt="image" src="https://github.com/user-attachments/assets/ec89c57c-23bf-47e8-a123-c624ce7544d4" />
 
+and then then GND one 
+
+<img width="1206" height="477" alt="image" src="https://github.com/user-attachments/assets/39ac85d1-0d0e-4d4f-8335-7b4f7cc05606" />
+
+
 
 
 # THE CASE 
