@@ -236,6 +236,11 @@ and here is a lil 360 as always
 
 
 
+https://github.com/user-attachments/assets/9dbf6d89-2aa4-4465-9659-0ed4b1decdad
+
+
+
+
 
 # THE CASE 
 
