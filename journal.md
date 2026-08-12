@@ -260,3 +260,11 @@ Using the schematic provided in the tutorial ill reacreate that schematic in kic
 
 <img width="1010" height="733" alt="Screenshot From 2026-08-12 16-22-33" src="https://github.com/user-attachments/assets/29d182f7-8e8a-4a1f-8cda-5a3db70055b9" />
 
+okay i wired the ic , 
+
+<img width="483" height="532" alt="image" src="https://github.com/user-attachments/assets/392d6f50-3fad-4b7a-bda7-3240c45f42c0" />
+
+
+
+now we need to make the led matrix and wire that to it 
+
