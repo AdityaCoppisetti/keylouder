@@ -393,3 +393,9 @@ okay so i made the case and i added a little hole for the c type port. im going 
 
 <img width="965" height="668" alt="image" src="https://github.com/user-attachments/assets/b84ae705-a019-4a37-b79c-1ab5fca6fd14" />
 
+
+here is how the pcb looks like inside the case 
+
+<img width="1233" height="491" alt="image" src="https://github.com/user-attachments/assets/df646430-4e4a-48fe-85d8-d036310de067" />
+
+
