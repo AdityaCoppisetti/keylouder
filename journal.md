@@ -476,4 +476,7 @@ OKAY SO BAHAHAHAHAHHAH THIS IS HOW BIG THE SCHEMATIC IS , ITS THE BIGGEST SCHEMA
 
 <img width="696" height="393" alt="image" src="https://github.com/user-attachments/assets/92b5b4e0-7d4c-4faf-9cec-d78439461a2e" />
 
+okay so what its basically doing is that it takes the pin on the main keyboard pcb and then makes it suitable for the rotary encoder 
+
+<img width="411" height="707" alt="image" src="https://github.com/user-attachments/assets/27c77088-ded6-4f59-9b4d-b71fe7f541c4" />
 
