@@ -303,3 +303,5 @@ and then the resisitor
 <img width="1152" height="618" alt="image" src="https://github.com/user-attachments/assets/742dab01-8518-4686-8465-41ade46bb6ea" />
 
 # THE LED MATRIX PCB
+
+but before we do that i need to see how much space we have below the pi pico in the keyboard pcb 
