@@ -243,6 +243,9 @@ before we get started on the case i dont like the empty space below the pi pico 
 
 okay so i was reading this tutorial https://www.hackster.io/diyguyChris/diy-customized-8x8-led-matrix-tutorial-max7219-meets-arduin-06a3a7
 
+<img width="632" height="475" alt="image" src="https://github.com/user-attachments/assets/ae3703c9-bb37-41a0-afa3-929e9134d7ed" />
+
+
 and the person had built a tiny module for their arduino and it got me thinking what if i built my own module instead of letting the components be on the keyboard pcb.
 
 now that open alot of doors because then i would be able to hotswappable modules like one with a led matrix and then one with a tiny oled display and one with a rotary encoder.
