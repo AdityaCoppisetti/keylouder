@@ -314,3 +314,8 @@ looks like we have plenty space
 
 <img width="619" height="486" alt="image" src="https://github.com/user-attachments/assets/669e8bed-b9bd-492a-949e-31a9e943177c" />
 
+i finally got done routing everything oh my god its so time taking 
+
+<img width="360" height="504" alt="image" src="https://github.com/user-attachments/assets/9705d652-390f-4cbe-bdea-ed0d01ea9fe0" />
+
+
