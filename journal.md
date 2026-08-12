@@ -213,6 +213,11 @@ and i went ahead and added VBUS and GND power symbols to the schematic
 
 <img width="589" height="693" alt="image" src="https://github.com/user-attachments/assets/3c7be3b4-61d0-49da-b2b4-9a62dd4abb4c" />
 
+after adding the VBUS fill zone here is how it looks like 
+
+<img width="1206" height="477" alt="image" src="https://github.com/user-attachments/assets/ec89c57c-23bf-47e8-a123-c624ce7544d4" />
+
+
 
 # THE CASE 
 
