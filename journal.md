@@ -322,3 +322,7 @@ i finally got done routing everything oh my god its so time taking
 okay now lets design the case. 
 
 ## THE CASE
+
+ookay so i opened kicad pcb editor and exported my file in . step 
+
+<img width="580" height="580" alt="Screenshot From 2026-08-12 14-28-17" src="https://github.com/user-attachments/assets/16ba6a4b-5f32-4f83-9006-ed45675ff71b" />
