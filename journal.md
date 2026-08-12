@@ -353,4 +353,9 @@ okay so i added connection in the main keyboard schematic and let now also put i
 
 before we do that lets clean up our schematic 
 
+i personally like to keep everything neat so this part is upto you 
+
+<img width="1225" height="485" alt="image" src="https://github.com/user-attachments/assets/d5546962-7d5f-42f0-95ca-2eaecb55f45b" />
+
+
 
