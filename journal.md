@@ -335,3 +335,7 @@ now lets open onshape and import our pcb boards.
 
 <img width="253" height="324" alt="image" src="https://github.com/user-attachments/assets/704d1ce6-c3ee-4b45-886b-2fdc10d23bd9" />
 
+combine it into the same part studio.
+
+i do this because its so much easier to make the case then and then i make sure that nothing is mapped out wrong plus at the same time i create project mockups to use as the preview picture 
+
