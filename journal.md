@@ -492,3 +492,9 @@ this is how simple the module really is
 <img width="782" height="552" alt="image" src="https://github.com/user-attachments/assets/f46cc12c-81a9-4d30-abb2-41b000280cb0" />
 
 
+the most difficult pcb today oh my my 
+
+
+<img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/da94f669-59cc-4546-be0b-d7c5f761bc03" />
+
+
