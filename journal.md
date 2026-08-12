@@ -358,4 +358,9 @@ i personally like to keep everything neat so this part is upto you
 <img width="1225" height="485" alt="image" src="https://github.com/user-attachments/assets/d5546962-7d5f-42f0-95ca-2eaecb55f45b" />
 
 
+okay so i updated the main pcb here is how it looks like now
+
+<img width="1225" height="485" alt="image" src="https://github.com/user-attachments/assets/94860a12-1071-495b-85f9-1af96a534854" />
+
+
 
