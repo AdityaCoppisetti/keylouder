@@ -20,3 +20,15 @@ and so i did just that
 i made the keyboards pcb firstly and here is how that looks like 
 
 <img width="1201" height="484" alt="image" src="https://github.com/user-attachments/assets/ef663a6f-6f71-4d98-81ae-d5701a4b3d49" />
+
+
+but the wiring and the annotation was all wrong so i made it again plus i had totally forgotton to add stabilizers
+
+so i made the schematic again and made a new pcb 
+
+<img width="914" height="474" alt="image" src="https://github.com/user-attachments/assets/5b0802dd-fe62-4fea-b1ef-402fff917f45" />
+
+i landed with this pcb 
+
+<img width="599" height="245" alt="image" src="https://github.com/user-attachments/assets/fd3b24e5-da02-4b1b-bd69-b027cff1e322" />
+
