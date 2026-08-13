@@ -697,6 +697,12 @@ just made the bottom layer sketch
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/ac388237-0d1f-4162-8062-c281852d3493" />
 
 
+i mean i guess it'll work 
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/57b1154d-1389-45aa-bf37-39ada4478ac6" />
+
+
+
 made the bottom layer sketch in the skeleton case manner lets see if its any good 
 
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/2c5dacaf-8203-4c33-9c7f-7c1f32837a47" />
