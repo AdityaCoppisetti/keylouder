@@ -594,3 +594,8 @@ now lets get started on the pcb
  ## the tamagotchi module pcb
 
   the 12mm switches were too big so i switched it to 6mm
+
+
+  i forgot to add the input pins from the keyboard pcb 
+
+  
