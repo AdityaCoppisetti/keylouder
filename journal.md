@@ -546,3 +546,5 @@ ive built multiple esp32 modules before so this shouldnt be a problem
 
 lets open kicad and get started 
 
+okay so because there isnt a proper datasheet on how the schematic of the display is , ill just be using the display module itself rather than having a tft screen soldered down on my pcb 
+
