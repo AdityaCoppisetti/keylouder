@@ -648,3 +648,5 @@ now lets see if i can try to make a mockup
 and also i want to build just one more module thats just a screen
 
 also i want to rebuild the case and make it really really cool
+
+i want to give the case a skeleton look 
