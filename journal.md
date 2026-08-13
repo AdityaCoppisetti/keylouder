@@ -538,6 +538,11 @@ it is the GC9A01 7-pin, 240×240, 1.28-inch round TFT module, SKU R123209
 it seems really simple to let me see if instead putting this display module ontop of my swappable module i can just make this into the same pcb 
 
 
+and here is the given datasheet measurements of the display 
+
+<img width="642" height="491" alt="image" src="https://github.com/user-attachments/assets/918efcb5-cc16-49b8-af4e-1b42b7220779" />
+
+
 # the micrcontroller 
 
 ill be using the ESP32-C3-WROOM-02U
