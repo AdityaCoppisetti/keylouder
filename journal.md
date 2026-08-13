@@ -690,3 +690,9 @@ aaaandddd another side done , wont be doing it on one side and then ill do the b
 
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/d6ecc956-b65e-4801-b035-9765e6260c75" />
 
+
+
+just made the bottom layer sketch
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/ac388237-0d1f-4162-8062-c281852d3493" />
+
