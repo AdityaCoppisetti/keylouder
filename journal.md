@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ace1704f-5848-4185-81a5-730ddb79b4bb
+
 i started this project back in june? 
 i cant really rememeber but then i abandoned this project because i couldnt understand the keyboard layout and the pcb mapping. 
 well some youtube tutorials later i figured how to make the layout. 
