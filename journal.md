@@ -657,4 +657,6 @@ i have something like this in mind
 <img width="868" height="938" alt="image" src="https://github.com/user-attachments/assets/bfc948b3-b49b-4f0b-af93-b233c14aa58d" />
 
  i dont want to mess my previous case up so im creating a different onshape document entirely and exporting the pcb again
- 
+
+
+ i made holes in the pcb so i could screw it in and mount it , i however think that the holes ive made are too big so i might have to design a specific washer 
