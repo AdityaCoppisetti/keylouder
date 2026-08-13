@@ -75,3 +75,7 @@ its a tiny digital pet
 
 
 i didnt have enough remaining pins on the pi pico so i made a esp32 devboard and then made it into a tiny module 
+
+
+
+<img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/720e314f-ba6f-4891-b4a5-4db95f32fd5c" />
