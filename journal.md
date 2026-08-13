@@ -716,3 +716,9 @@ now lets see if the tamagotchi module will fit
 the tamagotchi module will definitely fit for sure 
 
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/fc281b5e-e2e0-433f-b4ea-345d96ee598c" />
+
+
+this is such a cool project 
+
+<img width="1491" height="594" alt="image" src="https://github.com/user-attachments/assets/03c37096-dce5-4d47-afc1-d8f905f038ad" />
+
