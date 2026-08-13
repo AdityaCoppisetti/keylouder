@@ -607,3 +607,10 @@ the 3rd 4th and 5th pin do absolutely nothing
 i wired it so that the buttons are only using one pin because i didnt have any pins remaining for the display 
 
 <img width="727" height="764" alt="image" src="https://github.com/user-attachments/assets/9fd44a98-819d-4e0d-979f-65cab4944c15" />
+
+beacuse
+
+<img width="616" height="349" alt="image" src="https://github.com/user-attachments/assets/05326742-c7c8-4c5f-af92-b5e1bbc10e27" />
+
+each button will now have a unique value and thus we can use them with the same gpio pin 
+
