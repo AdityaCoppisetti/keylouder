@@ -569,3 +569,8 @@ wired the power and data input
 
 <img width="649" height="544" alt="image" src="https://github.com/user-attachments/assets/25e7ae07-be0e-4523-a5bb-e98d1b495bad" />
 
+okay here is everything 
+
+<img width="498" height="651" alt="image" src="https://github.com/user-attachments/assets/842899d7-6bb1-4624-8ff7-76f13c24f20c" />
+
+
