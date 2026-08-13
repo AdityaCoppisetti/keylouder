@@ -577,6 +577,15 @@ now lets add display out and buttons
 
 here is the complete schematic with the buttons and display input
 
+this is the footprint of the pcb 
+
+<img width="714" height="740" alt="image" src="https://github.com/user-attachments/assets/eb9a475d-3cf3-496b-b102-6a654ed0b28d" />
+
+now lets get started on the pcb 
+
+
+
+
 <img width="593" height="775" alt="image" src="https://github.com/user-attachments/assets/e6734e90-6f85-424a-8dc1-91feca4f7a21" />
 
 
