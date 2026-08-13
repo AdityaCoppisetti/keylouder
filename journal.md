@@ -733,3 +733,10 @@ but let me still once try redesigning the bottom layer
 made a much much MUCH better sketch 
 
 <img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/369c6065-5930-49d2-bf82-d889746d06d9" />
+
+
+
+i made a couple of changes and now here is the final product 
+
+<img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/d263ee78-4e91-4be4-9556-a06015758120" />
+
