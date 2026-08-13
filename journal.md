@@ -655,3 +655,6 @@ i want to give the case a skeleton look
 i have something like this in mind 
 
 <img width="868" height="938" alt="image" src="https://github.com/user-attachments/assets/bfc948b3-b49b-4f0b-af93-b233c14aa58d" />
+
+ i dont want to mess my previous case up so im creating a different onshape document entirely and exporting the pcb again
+ 
