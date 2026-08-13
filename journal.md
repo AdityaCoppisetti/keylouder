@@ -660,3 +660,10 @@ i have something like this in mind
 
 
  i made holes in the pcb so i could screw it in and mount it , i however think that the holes ive made are too big so i might have to design a specific washer 
+
+
+
+
+
+ <img width="1092" height="436" alt="Screenshot From 2026-08-13 17-39-40" src="https://github.com/user-attachments/assets/c86d15b8-6df3-4d08-9d1b-740cde968069" />
+
