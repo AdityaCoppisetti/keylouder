@@ -37,3 +37,9 @@ and the extra space beneath the pi pico gave me the idea and the space to add sw
 
 <img width="1258" height="447" alt="image" src="https://github.com/user-attachments/assets/55afad1b-7ed0-4cc3-b456-98cf6292ac20" />
 
+
+and so i made a led matrix pcb and here is how that looks like 
+
+<img width="360" height="504" alt="image" src="https://github.com/user-attachments/assets/2424143f-e057-4f04-a782-5b6075a54ec6" />
+
+
