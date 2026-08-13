@@ -722,3 +722,10 @@ this is such a cool project
 
 <img width="1491" height="594" alt="image" src="https://github.com/user-attachments/assets/03c37096-dce5-4d47-afc1-d8f905f038ad" />
 
+
+well its a first so im happy with it 
+
+<img width="1425" height="590" alt="image" src="https://github.com/user-attachments/assets/0fcd6192-a1a3-48a3-9f6b-da7dc309ac59" />
+
+but let me still once try redesigning the bottom layer 
+
