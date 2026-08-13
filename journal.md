@@ -747,3 +747,6 @@ made just one more tiny hole
 <img width="1364" height="594" alt="image" src="https://github.com/user-attachments/assets/48d16038-bf82-42bc-a6a8-ee21cf612189" />
 
 
+i also want to add images to my silkscreen but ill do it at the very last 
+
+
