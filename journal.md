@@ -564,3 +564,8 @@ i have put the main parts now lets design the tiny esp 32 board
 wired just the main module 
 
 <img width="458" height="539" alt="image" src="https://github.com/user-attachments/assets/c6304478-602c-428e-ab13-4eb872edcbda" />
+
+wired the power and data input 
+
+<img width="649" height="544" alt="image" src="https://github.com/user-attachments/assets/25e7ae07-be0e-4523-a5bb-e98d1b495bad" />
+
