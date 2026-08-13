@@ -542,3 +542,7 @@ ill be using the ESP32-C3-WROOM-02U
 
 its the same as the other esp32 module that i use besides the fact that it doesnt have inbuilt wifi and bluetooth antenna 
 
+ive built multiple esp32 modules before so this shouldnt be a problem 
+
+lets open kicad and get started 
+
