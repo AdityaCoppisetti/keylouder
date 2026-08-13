@@ -729,3 +729,7 @@ well its a first so im happy with it
 
 but let me still once try redesigning the bottom layer 
 
+
+made a much much MUCH better sketch 
+
+<img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/369c6065-5930-49d2-bf82-d889746d06d9" />
