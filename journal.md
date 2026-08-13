@@ -708,3 +708,5 @@ made the bottom layer sketch in the skeleton case manner lets see if its any goo
 
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/2c5dacaf-8203-4c33-9c7f-7c1f32837a47" />
 
+
+now lets see if the tamagotchi module will fit 
