@@ -83,3 +83,16 @@ i didnt have enough remaining pins on the pi pico so i made a esp32 devboard and
 
 <img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/8ca396a9-2835-42be-8e67-af41851dc3ed" />
 
+
+and then i wanted a skeleton case for the keyboard so i made this case on onshape 
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/b4d3daa1-2d1c-44a7-80ed-7e7a9f897dd4" />
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/a6943cdc-f96b-4b78-9a50-85d8994ee52d" />
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/593ccb98-1362-4393-94f4-23a84802d9fb" />
+
+<img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/ce1a40d2-fb84-4c78-a46a-d00a364ecfa0" />
+
+im super duper excited to build this project when i get the funding for it. you can find all the resources i used
+
