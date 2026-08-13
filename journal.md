@@ -614,3 +614,8 @@ beacuse
 
 each button will now have a unique value and thus we can use them with the same gpio pin 
 
+
+okay so the pcb wiring is done i got so overstimulated i had to calm my mind down 
+
+<img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/238cf8df-46ed-4d5e-9342-8c65d8dcfbd0" />
+
