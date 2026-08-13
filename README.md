@@ -79,3 +79,7 @@ i didnt have enough remaining pins on the pi pico so i made a esp32 devboard and
 
 
 <img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/720e314f-ba6f-4891-b4a5-4db95f32fd5c" />
+
+
+<img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/8ca396a9-2835-42be-8e67-af41851dc3ed" />
+
