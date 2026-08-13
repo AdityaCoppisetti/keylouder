@@ -688,4 +688,5 @@ okay so i did another side and i pray to go this looks better in life
 
 aaaandddd another side done , wont be doing it on one side and then ill do the bottom layer 
 
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/d6ecc956-b65e-4801-b035-9765e6260c75" />
 
