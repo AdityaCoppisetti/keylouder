@@ -560,3 +560,7 @@ i will be using these tactile switches cause i really really like them
 
 
 i have put the main parts now lets design the tiny esp 32 board
+
+wired just the main module 
+
+<img width="458" height="539" alt="image" src="https://github.com/user-attachments/assets/c6304478-602c-428e-ab13-4eb872edcbda" />
