@@ -73,3 +73,5 @@ Tamagotchi is a brand of handheld digital pets created by Japanese toymaker Band
 
 its a tiny digital pet 
 
+
+i didnt have enough remaining pins on the pi pico so i made a esp32 devboard and then made it into a tiny module 
