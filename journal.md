@@ -558,3 +558,5 @@ i will be using these tactile switches cause i really really like them
 
 <img width="932" height="609" alt="image" src="https://github.com/user-attachments/assets/00f0df70-a2bd-4ccc-b5a9-43c633748d9e" />
 
+
+i have put the main parts now lets design the tiny esp 32 board
