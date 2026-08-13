@@ -640,4 +640,4 @@ https://github.com/user-attachments/assets/ace1704f-5848-4185-81a5-730ddb79b4bb
 
 
 now lets see if i can try to make a mockup 
-
+and also i want to build just one more module thats just a screen
