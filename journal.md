@@ -624,6 +624,8 @@ here is how the pcb looks like in 3d view
 
 <img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/a1a93006-7002-4c76-a65f-62caf026dae2" />
 
+and 
+
 <img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/9cada9d7-e29b-4242-b6d0-fbeb863a8d3f" />
 
 
