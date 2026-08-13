@@ -516,4 +516,7 @@ yesterday night after i got done working i was thinking about what sort of modul
 
 so let me figure out how to make that after i make just the plain oled display module
 
+now i know i shouldnt let the pi pico do all of that so i will use my tiny xiao microcontroller 
+that i have or im going to use the esp32 module the one that doesnt have bluetooth or wifi.
 
+all of this seems really really cool and exciting! 
