@@ -575,3 +575,9 @@ okay here is everything
 
 now lets add display out and buttons 
 
+here is the complete schematic with the buttons and display input
+
+<img width="593" height="775" alt="image" src="https://github.com/user-attachments/assets/e6734e90-6f85-424a-8dc1-91feca4f7a21" />
+
+
+ , now lets make the pcb 
