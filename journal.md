@@ -599,3 +599,6 @@ now lets get started on the pcb
   i forgot to add the input pins from the keyboard pcb 
 
   
+<img width="714" height="740" alt="image" src="https://github.com/user-attachments/assets/f37acb26-1f04-46a7-8265-eb101846d398" />
+
+the 3rd 4th and 5th pin do absolutely nothing 
