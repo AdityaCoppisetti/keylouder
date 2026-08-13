@@ -670,3 +670,8 @@ i have something like this in mind
 
 
 i have made the outline of the case now lets remove parts using extrude feature and make it look cool asf 
+
+
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/2856ae9e-a513-4789-9d96-b0f4c74b7a78" />
+
