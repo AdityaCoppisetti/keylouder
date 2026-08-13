@@ -43,3 +43,5 @@ and so i made a led matrix pcb and here is how that looks like
 <img width="360" height="504" alt="image" src="https://github.com/user-attachments/assets/2424143f-e057-4f04-a782-5b6075a54ec6" />
 
 
+the routing for this pcb took me A WHILLLEEE but i had a ton of fun doing it 
+its really fun to take such tasks 
