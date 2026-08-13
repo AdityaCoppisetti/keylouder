@@ -678,3 +678,6 @@ i have made the outline of the case now lets remove parts using extrude feature 
 
 this is what im thinking about also this looks so bad but ykw its something that represents me 
 
+
+<img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/64d2a733-0895-44fa-b9d1-ba3419137045" />
+
