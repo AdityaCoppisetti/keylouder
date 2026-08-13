@@ -667,3 +667,6 @@ i have something like this in mind
 
  <img width="1092" height="436" alt="Screenshot From 2026-08-13 17-39-40" src="https://github.com/user-attachments/assets/c86d15b8-6df3-4d08-9d1b-740cde968069" />
 
+
+
+i have made the outline of the case now lets remove parts using extrude feature and make it look cool asf 
