@@ -619,3 +619,8 @@ okay so the pcb wiring is done i got so overstimulated i had to calm my mind dow
 
 <img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/238cf8df-46ed-4d5e-9342-8c65d8dcfbd0" />
 
+
+here is how the pcb looks like in 3d view 
+
+<img width="396" height="598" alt="image" src="https://github.com/user-attachments/assets/a1a93006-7002-4c76-a65f-62caf026dae2" />
+
