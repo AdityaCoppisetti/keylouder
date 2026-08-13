@@ -520,3 +520,11 @@ now i know i shouldnt let the pi pico do all of that so i will use my tiny xiao 
 that i have or im going to use the esp32 module the one that doesnt have bluetooth or wifi.
 
 all of this seems really really cool and exciting! 
+
+okay so after browsing robu.in
+i found this really cool round display module 
+
+<img width="1500" height="1044" alt="image" src="https://github.com/user-attachments/assets/6cfd2bb1-b3ac-4364-9c49-245cbdf1e455" />
+
+
+it is the GC9A01 7-pin, 240×240, 1.28-inch round TFT module, SKU R123209
