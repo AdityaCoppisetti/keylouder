@@ -686,4 +686,6 @@ okay so i did another side and i pray to go this looks better in life
 
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/29a959dc-8df6-4c56-825b-4b6f97447066" />
 
+aaaandddd another side done , wont be doing it on one side and then ill do the bottom layer 
+
 
