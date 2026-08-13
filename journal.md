@@ -650,3 +650,8 @@ and also i want to build just one more module thats just a screen
 also i want to rebuild the case and make it really really cool
 
 i want to give the case a skeleton look 
+
+
+i have something like this in mind 
+
+<img width="868" height="938" alt="image" src="https://github.com/user-attachments/assets/bfc948b3-b49b-4f0b-af93-b233c14aa58d" />
