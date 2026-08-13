@@ -50,3 +50,26 @@ and the led matrix went onto the board so perfectly
 
 https://github.com/user-attachments/assets/e525fbdb-a991-4f65-9065-cdec64515798
 
+
+and then i made 2 more modules 
+
+the rotary encoder pcb which just changes the wiring 
+
+<img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/aff6f994-a5c5-4f37-9b99-b36fa043fac9" />
+
+
+<img width="784" height="598" alt="image" src="https://github.com/user-attachments/assets/ccb9d338-44e4-489b-b853-def25a29209d" />
+
+i will be using that to adjust volume
+
+and the most exciting part of the project i made a virtual pet inside the keyboard!
+
+i made a tamagotchi module 
+
+what a tamgotchi?
+
+Tamagotchi is a brand of handheld digital pets created by Japanese toymaker Bandai, originally released in 1996.  The name is a portmanteau of the Japanese word tamago (egg) and watch, reflecting the device's egg-shaped design.
+
+
+its a tiny digital pet 
+
