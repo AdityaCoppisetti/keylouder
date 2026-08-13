@@ -32,3 +32,8 @@ i landed with this pcb
 
 <img width="599" height="245" alt="image" src="https://github.com/user-attachments/assets/fd3b24e5-da02-4b1b-bd69-b027cff1e322" />
 
+
+and the extra space beneath the pi pico gave me the idea and the space to add swappable modules 
+
+<img width="1258" height="447" alt="image" src="https://github.com/user-attachments/assets/55afad1b-7ed0-4cc3-b456-98cf6292ac20" />
+
