@@ -573,4 +573,5 @@ okay here is everything
 
 <img width="498" height="651" alt="image" src="https://github.com/user-attachments/assets/842899d7-6bb1-4624-8ff7-76f13c24f20c" />
 
+now lets add display out and buttons 
 
