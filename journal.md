@@ -602,3 +602,8 @@ now lets get started on the pcb
 <img width="714" height="740" alt="image" src="https://github.com/user-attachments/assets/f37acb26-1f04-46a7-8265-eb101846d398" />
 
 the 3rd 4th and 5th pin do absolutely nothing 
+
+
+i wired it so that the buttons are only using one pin because i didnt have any pins remaining for the display 
+
+<img width="727" height="764" alt="image" src="https://github.com/user-attachments/assets/9fd44a98-819d-4e0d-979f-65cab4944c15" />
