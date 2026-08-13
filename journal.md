@@ -510,5 +510,10 @@ and obviously ill import it into onshape and make a mockup
 apparently i cant do that because as soon as i open the asembly now it just freezes my laptop and im worried that my hackatime lapse footage will corrupt :(
 
 
+# August 13th 10.30 am
+
+yesterday night after i got done working i was thinking about what sort of modules i should make and i asked my friend and he recommended me to make a tamogotchi digital pet which would be so cool 
+
+so let me figure out how to make that after i make just the plain oled display module
 
 
