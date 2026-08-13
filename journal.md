@@ -521,6 +521,8 @@ that i have or im going to use the esp32 module the one that doesnt have bluetoo
 
 all of this seems really really cool and exciting! 
 
+# the display 
+
 okay so after browsing robu.in
 i found this really cool round display module 
 
@@ -528,3 +530,15 @@ i found this really cool round display module
 
 
 it is the GC9A01 7-pin, 240×240, 1.28-inch round TFT module, SKU R123209
+
+it seems really simple to let me see if instead putting this display module ontop of my swappable module i can just make this into the same pcb 
+
+
+# the micrcontroller 
+
+ill be using the ESP32-C3-WROOM-02U
+
+<img width="209" height="190" alt="image" src="https://github.com/user-attachments/assets/90b4f536-6a09-4c43-8ec8-9394dee00178" />
+
+its the same as the other esp32 module that i use besides the fact that it doesnt have inbuilt wifi and bluetooth antenna 
+
