@@ -45,3 +45,8 @@ and so i made a led matrix pcb and here is how that looks like
 
 the routing for this pcb took me A WHILLLEEE but i had a ton of fun doing it 
 its really fun to take such tasks 
+
+and the led matrix went onto the board so perfectly 
+
+https://github.com/user-attachments/assets/e525fbdb-a991-4f65-9065-cdec64515798
+
