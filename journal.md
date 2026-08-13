@@ -740,3 +740,10 @@ i made a couple of changes and now here is the final product
 
 <img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/d263ee78-4e91-4be4-9556-a06015758120" />
 
+
+
+made just one more tiny hole 
+
+<img width="1364" height="594" alt="image" src="https://github.com/user-attachments/assets/48d16038-bf82-42bc-a6a8-ee21cf612189" />
+
+
