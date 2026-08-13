@@ -555,3 +555,6 @@ okay so because there isnt a proper datasheet on how the schematic of the displa
 i will be using these tactile switches cause i really really like them 
 
 ## the schematic for tamagotchi module 
+
+<img width="932" height="609" alt="image" src="https://github.com/user-attachments/assets/00f0df70-a2bd-4ccc-b5a9-43c633748d9e" />
+
