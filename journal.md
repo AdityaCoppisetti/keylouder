@@ -937,3 +937,9 @@ done
 
 
  now lets make the standoffs
+
+
+ make the sketch now lets extrude 
+
+ <img width="1289" height="584" alt="image" src="https://github.com/user-attachments/assets/bd4128a8-12ec-42fd-b555-76c06e8d985a" />
+
