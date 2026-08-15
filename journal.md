@@ -894,4 +894,7 @@ okay moment of truth now i made the extruding layer
 <img width="1281" height="598" alt="image" src="https://github.com/user-attachments/assets/fae05e13-f18e-48da-b79c-764765008b0c" />
 
 
+honestly if we werent removing , this would look so cool if extruded that way 
+
+<img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/92ce37c2-7341-4dde-9092-14db370c0cfa" />
 
