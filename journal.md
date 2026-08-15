@@ -787,3 +787,6 @@ and then i made the stand-offs and it lowk looks okayish i mean its not the best
 
 in my previous case design i made a little cutout for the usb wire but i now realised i wouldnt need that since the pi pico is on pinheaders and thus it'll have some height yk and so i wouldnt have any problem with connecting it to a wire , however i dont think the pi pico comes in type c
 
+
+<img width="1392" height="673" alt="image" src="https://github.com/user-attachments/assets/71d1a1ec-f87a-4b75-92ac-2964d2d37c42" />
+
