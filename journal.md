@@ -776,3 +776,5 @@ here is how it looks like when extruded
 
 <img width="1400" height="531" alt="image" src="https://github.com/user-attachments/assets/c05f5a14-5489-429c-b8b9-bc18a4e68f86" />
 
+i went ahead and made the moutning holes in the case smaller 
+
