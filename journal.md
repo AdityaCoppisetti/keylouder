@@ -949,6 +949,12 @@ after the extrude
 
 
  now lets put the middle plate on 
+
+
+ the middle plate looks so good!
+
+ <img width="1289" height="584" alt="image" src="https://github.com/user-attachments/assets/a3ae1d1b-c3f0-4e81-9ced-e05c7c46333b" />
+
  
 
 
