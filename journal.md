@@ -943,3 +943,12 @@ done
 
  <img width="1289" height="584" alt="image" src="https://github.com/user-attachments/assets/bd4128a8-12ec-42fd-b555-76c06e8d985a" />
 
+
+after the extrude
+ <img width="1289" height="584" alt="image" src="https://github.com/user-attachments/assets/9dc431ac-9b01-4438-8e65-9d06766a7092" />
+
+
+ now lets put the middle plate on 
+ 
+
+
