@@ -794,3 +794,5 @@ in my previous case design i made a little cutout for the usb wire but i now rea
 # now lets make the tamagotchi module better 
 
 im going to be using the xiao rp2040 because i already have that and you can use a perfboard for this aswell
+
+this is the footprint that im using 
