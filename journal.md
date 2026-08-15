@@ -834,3 +834,8 @@ these board are so simple that ill be making them using a perf board , only the 
 
 ive also added a bvuzzer and i totally forgot to update my pcb and add the pins for that and i hadnt connected the power input for the xiao 
 
+
+and here is how it looks like after its updated and fully wired 
+
+<img width="855" height="782" alt="image" src="https://github.com/user-attachments/assets/1c3013b2-6087-4748-9ccf-2e6e00becc82" />
+
