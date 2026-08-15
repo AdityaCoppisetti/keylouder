@@ -862,3 +862,5 @@ here is the updated pcb with the correct mounting holes
 <img width="1340" height="489" alt="image" src="https://github.com/user-attachments/assets/6c939aac-463b-4785-8b1b-7b6070c42db7" />
 
 
+here it is in 3d viewer
+
