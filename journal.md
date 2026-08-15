@@ -799,3 +799,6 @@ this is the symbol and footprint
 
 <img width="1146" height="597" alt="image" src="https://github.com/user-attachments/assets/b342fc55-c8cf-4160-8a09-5a36d214dd05" />
 
+
+<img width="773" height="600" alt="image" src="https://github.com/user-attachments/assets/54387ffc-fa04-4f43-8034-6c83a32e966e" />
+
