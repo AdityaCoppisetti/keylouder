@@ -760,3 +760,5 @@ it turns out there was still alot i need to make-
 2) i want to make the tamagotchi module better by using a xiao rp2040 and not using a esp32 however i will still be making that
 3) i need to make the middle plate for the keyboard apparently
 4) i want to add images on my silkscreen
+
+but my question is how will there be backlight if im using a middle plate?
