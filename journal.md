@@ -961,5 +961,5 @@ looks so good
 **<img width="879" height="672" alt="image" src="https://github.com/user-attachments/assets/8e87f749-b85e-4feb-b742-88681c0dc734" />
 **
  
-
+apparently i forgot to add holes in the standoffs so there wasnt a hole to screw in but its good now 
 
