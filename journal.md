@@ -824,3 +824,11 @@ i copied and pasted the pcb measurements and the pin header positions
 it seems like i did the wiring perfectly 
 
 the pcb is super simple 
+
+i made it so that the xiao rp2040 is on the other side of the board 
+
+<img width="855" height="782" alt="image" src="https://github.com/user-attachments/assets/681b6f83-be20-49a8-88dd-57c5001df7b7" />
+
+
+these board are so simple that ill be making them using a perf board , only the simple ones tho 
+
