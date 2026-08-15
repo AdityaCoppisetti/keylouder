@@ -909,3 +909,15 @@ okay it doesnt look that good but i have an idea , i have an old acrylic glass p
 
 
 now lets get started on the other sides
+
+
+another side done 
+
+<img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/fd07ba87-b4b7-4c01-a03f-16f4e2017f85" />
+
+
+and then another side done 
+
+<img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/6d1b8cb5-2767-499b-831d-86717e9df1a8" />
+
+
