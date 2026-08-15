@@ -6,12 +6,15 @@ i decided that i should give this project a try and for the longest time i left 
 abandoned because i couldn't figure out the keyboard layout, but then i watched a ton of
 youtube tutorials and i got the hang of it. 
 
-how my keyboard is different than other 60 percent keyboard?
+how my keyboard is different than other 60 percent keyboards?
 
-well for starters its made completely by me including the pcb and the case and everything down to the tiniest size
+well for starters its made completely by me including the pcb and the case and everything down to the tiniest bit
 
 and then i did this really unique thing all because i had a tiny bit of space beneath the main controller of the keyboard (raspberry pi pico)
-so i thought i should add a led matrix. i was loooking at a tutorial where they had made their own led matrix module and it got me thinking what if i made my own
+so i thought i should add a led matrix.
+
+
+i was loooking at a tutorial where they had made their own led matrix module and it got me thinking what if i made my own
 hotswappable modules
 
 
@@ -43,7 +46,7 @@ and so i made a led matrix pcb and here is how that looks like
 <img width="360" height="504" alt="image" src="https://github.com/user-attachments/assets/2424143f-e057-4f04-a782-5b6075a54ec6" />
 
 
-the routing for this pcb took me A WHILLLEEE but i had a ton of fun doing it 
+the routing for this pcb took me A WHILLLEEE but i had  tons of fun doing it 
 its really fun to take such tasks 
 
 and the led matrix went onto the board so perfectly 
@@ -94,5 +97,5 @@ and then i wanted a skeleton case for the keyboard so i made this case on onshap
 
 <img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/ce1a40d2-fb84-4c78-a46a-d00a364ecfa0" />
 
-im super duper excited to build this project when i get the funding for it. you can find all the resources i used
+im super duper excited to build this project when i get the funding for it. you can find all the resources i used in the journal.md in this repo 
 
