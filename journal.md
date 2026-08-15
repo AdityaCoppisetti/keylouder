@@ -790,3 +790,5 @@ in my previous case design i made a little cutout for the usb wire but i now rea
 
 <img width="1392" height="673" alt="image" src="https://github.com/user-attachments/assets/71d1a1ec-f87a-4b75-92ac-2964d2d37c42" />
 
+
+# now lets make the tamagotchi module better 
