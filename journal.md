@@ -782,3 +782,6 @@ i went ahead and made the moutning holes in the case smaller
 
 and then i made the stand-offs and it lowk looks okayish i mean its not the best
 
+<img width="1392" height="673" alt="image" src="https://github.com/user-attachments/assets/e9f6e8a5-a058-4700-be7b-815d1470ed1a" />
+
+
