@@ -753,4 +753,10 @@ i also want to add images to my silkscreen but ill do it at the very last
 ## august 15th 
 
 today ill be doing a couple of things. 
-i honestly thought i was almost done because i had made the case and everything 
+i honestly thought i was almost done because i had made the case and everything. 
+it turns out there was still alot i need to make- 
+
+1) i want to add backlight to the keyboard however i dont want to do anything too fancy
+2) i want to make the tamagotchi module better by using a xiao rp2040 and not using a esp32 however i will still be making that
+3) i need to make the middle plate for the keyboard apparently
+4) i want to add images on my silkscreen
