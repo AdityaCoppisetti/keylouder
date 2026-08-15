@@ -802,3 +802,4 @@ this is the symbol and footprint
 
 <img width="773" height="600" alt="image" src="https://github.com/user-attachments/assets/54387ffc-fa04-4f43-8034-6c83a32e966e" />
 
+also i think im going to redesign the case oh lord 
