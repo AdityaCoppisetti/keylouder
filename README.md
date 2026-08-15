@@ -65,9 +65,9 @@ the rotary encoder pcb which just changes the wiring
 
 i will be using that to adjust volume
 
-and the most exciting part of the project i made a virtual pet inside the keyboard!
+and the most exciting part of the project is that i made a virtual pet inside the keyboard!
 
-i made a tamagotchi module 
+i made a tamagotchi module.
 
 what a tamgotchi?
 
