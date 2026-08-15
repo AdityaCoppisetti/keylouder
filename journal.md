@@ -848,3 +848,6 @@ okay so here is how that looks like
 
 oh yeah and i changed the middle plate colour to blue because grey was really weird
 
+
+let redesign the case for the 3rd fucking time now
+
