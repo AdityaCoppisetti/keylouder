@@ -889,4 +889,9 @@ fingers crossed i hope this looks good
 <img width="1281" height="598" alt="image" src="https://github.com/user-attachments/assets/466427e1-c649-4c19-8a29-dd41cb368c7e" />
 
 
+okay moment of truth now i made the extruding layer 
+
+<img width="1281" height="598" alt="image" src="https://github.com/user-attachments/assets/fae05e13-f18e-48da-b79c-764765008b0c" />
+
+
 
