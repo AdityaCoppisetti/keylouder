@@ -906,3 +906,6 @@ apparently i had a lot of errors the way i had plotted the shaped to be removed 
 
 okay it doesnt look that good but i have an idea , i have an old acrylic glass panel lying around and i think im going to put between the pcb and the case
 
+
+
+now lets get started on the other sides
