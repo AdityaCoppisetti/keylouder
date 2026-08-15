@@ -832,3 +832,5 @@ i made it so that the xiao rp2040 is on the other side of the board
 
 these board are so simple that ill be making them using a perf board , only the simple ones tho 
 
+ive also added a bvuzzer and i totally forgot to update my pcb and add the pins for that and i hadnt connected the power input for the xiao 
+
