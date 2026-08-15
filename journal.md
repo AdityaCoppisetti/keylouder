@@ -817,5 +817,5 @@ and then here are the footprints
 ## now lets make the pcb 
 
 
-
+look at how little components we need in this and how simpler it is 
 
