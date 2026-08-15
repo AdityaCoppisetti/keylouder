@@ -882,3 +882,6 @@ https://github.com/user-attachments/assets/513a91aa-45da-4924-ba17-3ebb43d4cd46
 here is the new case design sketch also i realised this is the fourth version of the case 
 
 
+<img width="1281" height="598" alt="image" src="https://github.com/user-attachments/assets/8e1d92ad-d981-4a1a-9068-90d0d47d0e02" />
+
+
