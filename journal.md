@@ -796,3 +796,6 @@ in my previous case design i made a little cutout for the usb wire but i now rea
 im going to be using the xiao rp2040 because i already have that and you can use a perfboard for this aswell
 
 this is the symbol and footprint
+
+<img width="1146" height="597" alt="image" src="https://github.com/user-attachments/assets/b342fc55-c8cf-4160-8a09-5a36d214dd05" />
+
