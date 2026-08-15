@@ -167,6 +167,7 @@ and here is how i wired the pi pico
 <img width="354" height="437" alt="image" src="https://github.com/user-attachments/assets/6ed40036-c423-45cd-acac-9df696772237" />
 
 
+
 okay so here is what im doing 
 im taking each diode and putting it on the other side of the pcb 
 
