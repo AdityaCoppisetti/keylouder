@@ -955,6 +955,11 @@ after the extrude
 
  <img width="1289" height="584" alt="image" src="https://github.com/user-attachments/assets/a3ae1d1b-c3f0-4e81-9ced-e05c7c46333b" />
 
+
+looks so good 
+
+**<img width="879" height="672" alt="image" src="https://github.com/user-attachments/assets/8e87f749-b85e-4feb-b742-88681c0dc734" />
+**
  
 
 
