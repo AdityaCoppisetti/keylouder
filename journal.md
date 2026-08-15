@@ -926,4 +926,8 @@ anddd
 <img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/aad08e92-337d-46c9-9656-15bba1d3cec5" />
 
 
+only one side remaining now 
+
+also i decided not to add rbg because i never end up using it on my keyboard that i have and figured why go thru the hassle
+
 
