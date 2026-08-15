@@ -851,3 +851,5 @@ oh yeah and i changed the middle plate colour to blue because grey was really we
 
 let redesign the case for the 3rd fucking time now
 
+
+also before i do that , it seems like i made the mounting holes in the pcb way too big 
