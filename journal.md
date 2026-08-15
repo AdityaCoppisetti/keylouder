@@ -762,3 +762,10 @@ it turns out there was still alot i need to make-
 4) i want to add images on my silkscreen
 
 but my question is how will there be backlight if im using a middle plate?
+
+i mapped everything out and here is how the sketch of the mid plate looks like 
+
+<img width="1288" height="488" alt="image" src="https://github.com/user-attachments/assets/4ecf9dbe-f965-47a7-8e00-0363ac5c250d" />
+
+
+and im glad i did that because i realised that i didnt made the case mounting holes tall so the pcb would have been mounted really really low 
