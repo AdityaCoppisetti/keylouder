@@ -750,3 +750,7 @@ made just one more tiny hole
 i also want to add images to my silkscreen but ill do it at the very last 
 
 
+## august 15th 
+
+today ill be doing a couple of things. 
+i honestly thought i was almost done because i had made the case and everything 
