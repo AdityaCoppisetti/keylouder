@@ -846,3 +846,5 @@ okay so here is how that looks like
 
 <img width="769" height="729" alt="image" src="https://github.com/user-attachments/assets/cc5890da-54ad-40ef-bde2-fe0ad99ac616" />
 
+oh yeah and i changed the middle plate colour to blue because grey was really weird
+
