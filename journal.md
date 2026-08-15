@@ -839,3 +839,5 @@ and here is how it looks like after its updated and fully wired
 
 <img width="855" height="782" alt="image" src="https://github.com/user-attachments/assets/1c3013b2-6087-4748-9ccf-2e6e00becc82" />
 
+now lets export it into .step and make mockups 
+
