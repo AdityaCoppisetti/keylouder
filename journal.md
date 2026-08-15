@@ -871,3 +871,7 @@ and the back
 
 <img width="1219" height="484" alt="image" src="https://github.com/user-attachments/assets/7888f797-4cf0-43c3-8687-77e617bd4f03" />
 
+
+and obviously here is the lil 360 
+
+
