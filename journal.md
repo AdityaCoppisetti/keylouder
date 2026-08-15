@@ -854,3 +854,8 @@ let redesign the case for the 3rd fucking time now
 
 also before i do that , it seems like i made the mounting holes in the pcb way too big 
 and also lets add images to silkscreen
+
+
+here is the updated pcb with the correct mounting holes 
+
+
