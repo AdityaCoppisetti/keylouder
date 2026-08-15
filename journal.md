@@ -59,6 +59,7 @@ okay so this schematic wiring is a bit wrong, i need to fix it but it explains t
 
 see the rows and columns 
 
+
 we will call this schematic version 1 
 
 
