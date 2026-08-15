@@ -931,3 +931,9 @@ only one side remaining now
 also i decided not to add rbg because i never end up using it on my keyboard that i have and figured why go thru the hassle
 
 
+done
+
+<img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/82e2e971-69b9-4fa3-b59a-51106a27f10e" />
+
+
+ now lets make the standoffs
