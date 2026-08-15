@@ -769,3 +769,4 @@ i mapped everything out and here is how the sketch of the mid plate looks like
 
 
 and im glad i did that because i realised that i didnt made the case mounting holes tall so the pcb would have been mounted really really low 
+when i extrude that sketch i want it to be really really slim 
