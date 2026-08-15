@@ -903,6 +903,6 @@ apparently i had a lot of errors the way i had plotted the shaped to be removed 
 
 <img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/9dc03add-ad2a-42d2-b304-505ac821ff5b" />
 
-i did it!!!
 
+okay it doesnt look that good but i have an idea , i have an old acrylic glass panel lying around and i think im 
 
