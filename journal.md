@@ -811,5 +811,8 @@ i went ahead and designed the schematic
 and then here are the footprints
 
 
+<img width="751" height="208" alt="image" src="https://github.com/user-attachments/assets/d107fc68-0922-48ac-8f38-646d050a15a8" />
+
+
 
 
