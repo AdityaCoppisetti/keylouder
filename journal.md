@@ -898,3 +898,11 @@ honestly if we werent removing , this would look so cool if extruded that way
 
 <img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/92ce37c2-7341-4dde-9092-14db370c0cfa" />
 
+
+apparently i had a lot of errors the way i had plotted the shaped to be removed and finally after so many trials 
+
+<img width="1250" height="738" alt="image" src="https://github.com/user-attachments/assets/9dc03add-ad2a-42d2-b304-505ac821ff5b" />
+
+i did it!!!
+
+
