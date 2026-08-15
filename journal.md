@@ -841,3 +841,8 @@ and here is how it looks like after its updated and fully wired
 
 now lets export it into .step and make mockups 
 
+
+okay so here is how that looks like 
+
+<img width="769" height="729" alt="image" src="https://github.com/user-attachments/assets/cc5890da-54ad-40ef-bde2-fe0ad99ac616" />
+
