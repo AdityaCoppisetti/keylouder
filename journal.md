@@ -822,3 +822,5 @@ look at how little components we need in this and how simpler it is
 i copied and pasted the pcb measurements and the pin header positions
 
 it seems like i did the wiring perfectly 
+
+the pcb is super simple 
