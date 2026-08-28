@@ -6,7 +6,7 @@ i decided that i should give this project a try and for the longest time i left 
 abandoned because i couldn't figure out the keyboard layout, but then i watched a ton of
 youtube tutorials and i got the hang of it. 
 
-how my keyboard is different than other 60 percent keyboards?
+how is my keyboard different than other 60 percent keyboards?
 
 well for starters its made completely by me including the pcb and the case and everything down to the tiniest bit
 
