@@ -96,6 +96,8 @@ and then i wanted a skeleton case for the keyboard so i made this case on onshap
 
 <img width="1383" height="775" alt="image" src="https://github.com/user-attachments/assets/593ccb98-1362-4393-94f4-23a84802d9fb" />
 
+
+although i might redesign the led matrix pcb again
 <img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/ce1a40d2-fb84-4c78-a46a-d00a364ecfa0" />
 
 im super duper excited to build this project when i get the funding for it. you can find all the resources i used in the journal.md in this repo 
