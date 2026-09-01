@@ -74,6 +74,7 @@ what a tamgotchi?
 Tamagotchi is a brand of handheld digital pets created by Japanese toymaker Bandai, originally released in 1996.  The name is a portmanteau of the Japanese word tamago (egg) and watch, reflecting the device's egg-shaped design.
 
 
+
 its a tiny digital pet 
 
 
